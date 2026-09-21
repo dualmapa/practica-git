@@ -1,3 +1,3 @@
 def saludo(nombre):
     return f"Hello, {nombre}"
-print(saludo("Alex"))
+print(saludo("Lucas"))
